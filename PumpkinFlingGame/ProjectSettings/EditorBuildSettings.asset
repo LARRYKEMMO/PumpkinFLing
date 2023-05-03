@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intros/CompanyLogo.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Intros/PumpkinFlingLogo.unity
+    guid: 94e959aa2611d174e8310bb90e47e71e
+  - enabled: 1
+    path: Assets/Scenes/StoryScreen.unity
+    guid: 67d40301c5a43fc40a2bd3258fe97fd5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu22.unity
+    guid: 6f0337ff6e513e74cae57393e4c6fb30
+  - enabled: 1
+    path: Assets/Scenes/HelpMenuScenes/HelpScreen.unity
+    guid: de8b90151e6afb646b27db6fa2428621
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: c418301637df8704ea866e8aa5d0fab4
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ef4d5e13c9a89bd449210ae008f0b32d
+  - enabled: 1
+    path: Assets/Scenes/HelpMenuScenes/howToPlay.unity
+    guid: 3ddd3e3b9bc2ac649bf404bc82ad4c99
+  - enabled: 1
+    path: Assets/Scenes/HelpMenuScenes/HowToUseHighScore.unity
+    guid: 8fe626227fa309b42a63a9a018f1b743
+  - enabled: 1
+    path: Assets/Scenes/HelpMenuScenes/HowToUseMap.unity
+    guid: 6bf21b7d5f8f87f498b57ae5c8456314
+  - enabled: 1
+    path: Assets/Scenes/Settings/Settings.unity
+    guid: 7841bcb6250849f4288c2752fc88ba2c
+  - enabled: 1
+    path: Assets/Scenes/Settings/Audio.unity
+    guid: b6fe58475d1035641aad002712899bc9
+  - enabled: 1
+    path: Assets/Scenes/HighScoreBoard.unity
+    guid: d02b064cd2109b74b8b413c9d1e153b6
+  - enabled: 1
+    path: Assets/Scenes/PumpkinFlingGame.unity
+    guid: bd05d1ec3f306fb4a9a899ea5da369cc
+  - enabled: 1
+    path: Assets/Scenes/SelectionScene.unity
+    guid: 09355cb863bc1944d97ed0e1f46123d8
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8c7abee0b84970c48a594fc4cb34ac83, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: a400c8c2bd3b162419115fee52b468b5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a127b51351f00ad449275d17c67ffa88, type: 2}
